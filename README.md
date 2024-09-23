@@ -91,15 +91,3 @@ Web Developer
     </picture>
   </a>
 </p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/TomCoulais">
-  <img src="https://github-readme-stats.vercel.app/api?username=TomCoulais&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=6366f1&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="TomCoulais's GitHub stats" />
-</a>
-
-<a href="http://www.github.com/TomCoulais">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TomCoulais&stroke=6366f1&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=6366f1&currStreakLabel=0891b2&sideNums=6366f1&sideLabels=6366f1&dates=6366f1&hide_border=true" alt="GitHub Streak Stats" />
-</a>
