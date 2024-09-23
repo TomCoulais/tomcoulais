@@ -6,7 +6,7 @@ Web Developer
 
 * 🌍  I'm based in France  
 * ✉️  You can contact me at [tom.coulaispro@gmail.com](mailto:tom.coulaispro@gmail.com)  
-* 🧠  I'm learning Vue.js and Symfony  
+* 🧠  I'm learning Vue.js, Nuxt.js and Symfony  
 
 <a href="https://www.github.com/TomCoulais" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/github/followers/TomCoulais?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="GitHub Followers" />
