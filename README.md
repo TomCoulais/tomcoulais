@@ -27,7 +27,7 @@ Web Developer
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" />
 </a>
-<a href="https://worldvectorlogo.com/fr/logo/symfony" target="_blank" rel="noreferrer">
+<a href="https://cdn.worldvectorlogo.com/logos/symfony.svg" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/symfony-colored.svg" width="36" height="36" alt="Symfony" />
 </a>
 </p>
