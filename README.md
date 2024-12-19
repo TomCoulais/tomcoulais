@@ -6,7 +6,7 @@ Web Developer
 
 * 🌍  I'm based in France  
 * ✉️  You can contact me at [tom.coulaispro@gmail.com](mailto:tom.coulaispro@gmail.com)  
-* 🧠  I'm learning Vue.js, Nuxt.js and Symfony  
+* 🧠  I'm learning Vue.js, Nuxt.js, and Symfony  
 
 <a href="https://www.github.com/TomCoulais" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/github/followers/TomCoulais?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="GitHub Followers" />
@@ -26,6 +26,9 @@ Web Developer
 </a>
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" />
+</a>
+<a href="https://symfony.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/symfony-colored.svg" width="36" height="36" alt="Symfony" />
 </a>
 </p>
 <p align="left">
@@ -61,7 +64,6 @@ Web Developer
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
 </a>
-
 
 ### Socials
 
